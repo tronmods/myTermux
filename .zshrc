@@ -5,7 +5,7 @@ plugins=(
   zsh-autosuggestions 
   zsh-syntax-highlighting 
   bgnotify
-  zsh-fzf-history-search
+
   zsh-autocomplete
 )
 
